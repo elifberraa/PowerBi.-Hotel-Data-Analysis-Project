@@ -17,17 +17,17 @@ This project focuses on analyzing hotel data to uncover insights related to cust
 1. Connect to the Hotel Data Source
     - Import and establish a connection to the hotel data within Power BI.
 2. Data Cleaning and Transformation
-- Utilize Power BI Query Editor to clean, organize, and transform the raw data for analysis.
+    - Utilize Power BI Query Editor to clean, organize, and transform the raw data for analysis.
 3. Create Calculations and Measures
-- Use DAX (Data Analysis Expressions) to build custom calculations and new measures that support deeper analysis.
+    - Use DAX (Data Analysis Expressions) to build custom calculations and new measures that support deeper analysis.
 4. Visualize and Analyze
-- Develop interactive visualizations and reports to analyze key metrics like:
-- - Customer acquisition trends
-- - Customer retention patterns
-- - Revenue growth and performance
+    - Develop interactive visualizations and reports to analyze key metrics like:
+        - Customer acquisition trends
+        - Customer retention patterns
+        - Revenue growth and performance
 5. Dashboard Creation and Sharing
-- Design an interactive dashboard to present key insights and KPIs.
-- Share the dashboard to enable collaboration and data-driven decision-making.
+    - Design an interactive dashboard to present key insights and KPIs.
+    - Share the dashboard to enable collaboration and data-driven decision-making.
    
 ### Objective
 

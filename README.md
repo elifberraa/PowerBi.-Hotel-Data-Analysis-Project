@@ -15,7 +15,7 @@ This project focuses on analyzing hotel data to uncover insights related to cust
 ### Project Workflow
 
 1. Connect to the Hotel Data Source
-- Import and establish a connection to the hotel data within Power BI.
+    - Import and establish a connection to the hotel data within Power BI.
 2. Data Cleaning and Transformation
 - Utilize Power BI Query Editor to clean, organize, and transform the raw data for analysis.
 3. Create Calculations and Measures
